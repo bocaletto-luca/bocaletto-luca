@@ -1,7 +1,5 @@
 # Hello, I'm Bocaletto Luca 👋
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Bocaletto+Luca's+World)
-
 ## About Me
 
 I'm an Italian Full-Stack Developer born in 1982 with a passion for technology and innovation. My work spans web development, backend systems, and even system administration. Alongside coding robust applications, I love creating immersive web games that bring classic video games to life—whether it's arcade hits like Pong and Tetris, strategy-driven Chess, or cherished card games like Scopa.
