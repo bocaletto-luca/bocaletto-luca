@@ -46,9 +46,9 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 ## GitHub Stats
 [![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca)](https://github.com/bocaletto-luca?tab=repositories)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
 
