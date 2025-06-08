@@ -35,14 +35,11 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical)
+[![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca)](https://github.com/bocaletto-luca?tab=repositories)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
 
 ## Repository in Evidenza
 
-[![Repository1](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository1&theme=radical)](https://github.com/bocaletto-luca/Repository1)
-[![Repository2](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository2&theme=radical)](https://github.com/bocaletto-luca/Repository2)
-[![Repository3](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository3&theme=radical)](https://github.com/bocaletto-luca/Repository3)
-
-## GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
-
+[![Pong](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository1&theme=radical)](https://github.com/bocaletto-luca/Pong)
+[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository2&theme=radical)](https://github.com/bocaletto-luca/Snake/)
+[![Chess](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository3&theme=radical)](https://github.com/bocaletto-luca/Chess/)
