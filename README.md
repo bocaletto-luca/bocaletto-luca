@@ -33,7 +33,7 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 
 ---
 
-## Repository in Evidenza
+## Repository in Evidence
 
 [![Pong](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical)](https://github.com/bocaletto-luca/Pong)
 
