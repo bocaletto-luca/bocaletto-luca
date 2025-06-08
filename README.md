@@ -29,18 +29,36 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 - **GitHub Pages**: [bocaletto-luca.github.io](https://bocaletto-luca.github.io)
 - **GitHub**: [@bocaletto-luca](https://github.com/bocaletto-luca/)
 - **Facebook**: [Luca Bocaletto](https://www.facebook.com/people/Luca-Bocaletto/pfbid0hJenerqZQQ6zJAkY6cc2511AeSiGHvP7Jxr3bBrA7Kque99TprKQn99b2t3eZ41Ll)
-- **YouTube**: [YouTube Channel]([#](https://www.youtube.com/@elektronoide))  <!-- Replace '#' with your channel link -->
+- **YouTube**: [YouTube Channel](https://www.youtube.com/@elektronoide)
+
+---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical)
-[![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca)](https://github.com/bocaletto-luca?tab=repositories)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/bocaletto-luca?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca" alt="Repo Count" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 
 ## Repository in Evidenza
 
-[![Pong](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical)](https://github.com/bocaletto-luca/Pong)
-[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical)](https://github.com/bocaletto-luca/Snake)
-[![Chess](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical)](https://github.com/bocaletto-luca/Chess)
-
+<p align="center">
+  <a href="https://github.com/bocaletto-luca/Pong" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical" alt="Pong" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Snake" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical" alt="Snake" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Chess" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical" alt="Chess" />
+  </a>
+</p>
