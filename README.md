@@ -40,6 +40,7 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 
 ## Repository in Evidenza
 
-[![Pong](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository1&theme=radical)](https://github.com/bocaletto-luca/Pong)
-[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository2&theme=radical)](https://github.com/bocaletto-luca/Snake/)
-[![Chess](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Repository3&theme=radical)](https://github.com/bocaletto-luca/Chess/)
+[![Pong](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical)](https://github.com/bocaletto-luca/Pong)
+[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical)](https://github.com/bocaletto-luca/Snake)
+[![Chess](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical)](https://github.com/bocaletto-luca/Chess)
+
