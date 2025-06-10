@@ -96,10 +96,10 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" style="margin-right: 10px;" />
 
-  <!-- Updated WebGL URL from Wikimedia Commons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/WebGL_Logo.svg" alt="WebGL" title="WebGL" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Use a reliable WebGL logo from Wikimedia Commons -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/WebGL_Logo.png" alt="WebGL" title="WebGL" width="40" height="40" style="margin-right: 10px;" />
 
-  <!-- Using a placeholder for Beautiful Soup since no official logo exists -->
+  <!-- Use a placeholder for Beautiful Soup -->
   <img src="https://via.placeholder.com/40?text=BS" alt="Beautiful Soup" title="Beautiful Soup" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
@@ -111,8 +111,8 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
 
 ## Additional Technologies & Languages
 <div>
-  <!-- Updated Canva URL from Wikimedia Commons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_logo.svg" alt="Canva" title="Canva" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Updated Canva URL from SeekLogo -->
+  <img src="https://seeklogo.com/images/C/canva-logo-3D66FB029E-seeklogo.com.png" alt="Canva" title="Canva" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin-right: 10px;" />
