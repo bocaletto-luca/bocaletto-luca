@@ -60,5 +60,5 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 [![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark)](https://github.com/bocaletto-luca)
 
 ---
-
-https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix
+[![trophy](
+https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)](https://github.com/bocaletto-luca/github-profile-trophy)
