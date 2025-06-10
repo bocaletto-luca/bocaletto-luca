@@ -66,37 +66,50 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
 # Languages & Technologies
 
 ## Front-End
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML5")  
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg "CSS3")  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
-![JSON](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg "JSON")
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" title="JSON" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ## Back-End
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg "PHP")  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")  
-![Bash Script](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg "Bash Script")
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash Script" title="Bash Script" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
-**Database:**  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg "MySQL")  
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg "PostgreSQL")  
-![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB")  
-![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg "Firebase")
+**Database:**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ## Other (Frameworks & Tools)
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg "Django")  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg "React")  
-![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg "Vue.js")  
-![WebGL](https://raw.githubusercontent.com/ahfarmer/aha/master/img/webgl.png "WebGL")  
-![Beautiful Soup](https://raw.githubusercontent.com/abranhe/github-profile-readme-generator/main/images/beautifulsoup.png "Beautiful Soup")
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" title="Django" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/ahfarmer/aha/master/img/webgl.png" alt="WebGL" title="WebGL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/abranhe/github-profile-readme-generator/main/images/beautifulsoup.png" alt="Beautiful Soup" title="Beautiful Soup" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ## Systems
-![GNU/Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg "GNU/Linux")  
-![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg "Windows")
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GNU/Linux" title="GNU/Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ## Additional Technologies & Languages
-![Canva](https://cdn.worldvectorlogo.com/logos/canva-1.svg "Canva")  
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg "Matplotlib")  
-![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg "PyTorch")  
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg "TensorFlow")  
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#")  
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg "C")
+<div>
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" title="Canva" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
