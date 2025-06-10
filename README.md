@@ -97,11 +97,6 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" style="margin-right: 10px;" />
   
-  <!-- WebGL: Using a PNG-based logo from Wikimedia Commons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/WebGL_Logo.png" alt="WebGL" title="WebGL" width="40" height="40" style="margin-right: 10px;" />
-  
-  <!-- Beautiful Soup: Using a placeholder since there is no official logo -->
-  <img src="https://via.placeholder.com/40?text=BS" alt="Beautiful Soup" title="Beautiful Soup" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ## Systems
@@ -112,8 +107,6 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
 
 ## Additional Technologies & Languages
 <div>
-  <!-- Canva: Using an alternate high-quality PNG from Wikimedia Commons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Canva_logo.svg" alt="Canva" title="Canva" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin-right: 10px;" />
