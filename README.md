@@ -58,3 +58,9 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
 
 ---
+
+[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark)](https://github.com/bocaletto-luca)
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&layout=compact)](https://wakatime.com/@bocaletto-luca)
+
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Completed-blue)](https://hacktoberfest.digital)
