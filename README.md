@@ -62,12 +62,6 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 
 ## Trophy GitHub
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bocaletto-luca&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Activity
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bocaletto-luca&theme=react-dark)](https://github.com/bocaletto-luca)
+[![GitHub Stars](https://img.shields.io/github/stars/bocaletto-luca?style=social)](https://github.com/bocaletto-luca)
 
 ---
