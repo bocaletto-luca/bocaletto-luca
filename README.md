@@ -11,7 +11,7 @@
 
 <!-- About Me Section -->
 ## About Me
-I'm a Full-Stack Developer with a broad background in web development, backend systems, and system administration. I also love creating browser-based remakes of classic video games like Pong, Tetris, Chess, Scopa, etc.
+I'm a Full-Stack Developer with a broad background in web development, backend systems, and system administration. I also love creating browser-based remakes of classic video games, WebApp, Software.
 
 <!-- What I Do -->
 ## What I Do
