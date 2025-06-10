@@ -90,11 +90,17 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
 
 ## Other (Frameworks & Tools)
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" title="Django" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Updated Django URL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="40" height="40" style="margin-right: 10px;" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/ahfarmer/aha/master/img/webgl.png" alt="WebGL" title="WebGL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/abranhe/github-profile-readme-generator/main/images/beautifulsoup.png" alt="Beautiful Soup" title="Beautiful Soup" width="40" height="40" style="margin-right: 10px;" />
+
+  <!-- Updated WebGL URL from Wikimedia Commons -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/WebGL_Logo.svg" alt="WebGL" title="WebGL" width="40" height="40" style="margin-right: 10px;" />
+
+  <!-- Using a placeholder for Beautiful Soup since no official logo exists -->
+  <img src="https://via.placeholder.com/40?text=BS" alt="Beautiful Soup" title="Beautiful Soup" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ## Systems
@@ -105,11 +111,11 @@ https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix)]
 
 ## Additional Technologies & Languages
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" title="Canva" width="40" height="40" style="margin-right: 10px;" />
+  <!-- Updated Canva URL from Wikimedia Commons -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_logo.svg" alt="Canva" title="Canva" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" style="margin-right: 10px;" />
 </div>
-
