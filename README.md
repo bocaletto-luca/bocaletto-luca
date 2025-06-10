@@ -52,4 +52,6 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
 
+[![GitHub followers](https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social)](https://github.com/bocaletto-luca)
+
 ---
