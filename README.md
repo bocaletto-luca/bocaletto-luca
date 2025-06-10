@@ -60,15 +60,3 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 [![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark)](https://github.com/bocaletto-luca)
 
 ---
-
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=NomeDelRepo)](https://github.com/bocaletto-luca/NomeDelRepo)
-
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=bocaletto-luca)](https://github.com/bocaletto-luca)
-
-![](https://quotes-github.vercel.app/api?theme=radical)
-
-[![Sponsors](https://img.shields.io/badge/Sponsors-Become_a_supporter-brightgreen)](https://github.com/sponsors/bocaletto-luca)
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&layout=compact)](https://wakatime.com/@bocaletto-luca)
-
-
