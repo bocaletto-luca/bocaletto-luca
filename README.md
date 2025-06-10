@@ -44,23 +44,31 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 ---
 
 ## GitHub Stats
-[![GitHub Stars](https://img.shields.io/github/stars/bocaletto-luca?style=social)](https://github.com/bocaletto-luca)
 <!-- Badge per i follower e il numero dei repository -->
+[![GitHub Stars](https://img.shields.io/github/stars/bocaletto-luca?style=social)](https://github.com/bocaletto-luca)
 [![GitHub Followers](https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social)](https://github.com/bocaletto-luca)  
 [![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca)](https://github.com/bocaletto-luca?tab=repositories)
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Completed-blue)](https://hacktoberfest.digital)
 
 <!-- Linguaggi più usati, con layout compatto e tema radical -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical)
-
-<!-- Streak di attività quotidiana -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
 <!-- Statistiche generali: commit, contributi e altro -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
+<!-- Streak di attività quotidiana -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
+<!-- Profile Summary Card -->
+[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark)](https://github.com/bocaletto-luca)
 
 ---
 
-[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark)](https://github.com/bocaletto-luca)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=NomeDelRepo)](https://github.com/bocaletto-luca/NomeDelRepo)
+
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=bocaletto-luca)](https://github.com/bocaletto-luca)
+
+![](https://quotes-github.vercel.app/api?theme=radical)
+
+[![Sponsors](https://img.shields.io/badge/Sponsors-Become_a_supporter-brightgreen)](https://github.com/sponsors/bocaletto-luca)
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&layout=compact)](https://wakatime.com/@bocaletto-luca)
 
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Completed-blue)](https://hacktoberfest.digital)
+
