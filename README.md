@@ -44,14 +44,30 @@ I'm also the author of *La storia di Linux*, a book available on Amazon that del
 ---
 
 ## GitHub Stats
+
+<!-- Badge per i follower e il numero dei repository -->
+[![GitHub Followers](https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social)](https://github.com/bocaletto-luca)  
 [![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca)](https://github.com/bocaletto-luca?tab=repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical)
-
+<!-- Statistiche generali: commit, contributi e altro -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical)
 
+<!-- Linguaggi più usati, con layout compatto e tema radical -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical)
+
+<!-- Streak di attività quotidiana -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical)
 
-[![GitHub followers](https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social)](https://github.com/bocaletto-luca)
+---
+
+## Trophy GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bocaletto-luca)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Activity
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bocaletto-luca&theme=react-dark)](https://github.com/bocaletto-luca)
 
 ---
