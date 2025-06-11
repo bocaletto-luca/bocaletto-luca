@@ -41,9 +41,13 @@ I'm the author of *La storia di Linux* – a book that explores the evolution an
   <a href="https://www.facebook.com/people/Luca-Bocaletto/pfbid0hJenerqZQQ6zJAkY6cc2511AeSiGHvP7Jxr3bBrA7Kque99TprKQn99b2t3eZ41Ll" target="_blank">Facebook</a> •
   <a href="https://www.youtube.com/@elektronoide" target="_blank">YouTube</a>
 </p>
-## 🎬 Video
 
-[![Video](https://img.youtube.com/vi/kX8hfK0PrHM/0.jpg)](https://www.youtube.com/watch?v=kX8hfK0PrHM)  
+<p align="center">
+  <b>🎬 Video</b><br>
+  <a href="https://www.youtube.com/watch?v=kX8hfK0PrHM">
+    <img src="https://img.youtube.com/vi/kX8hfK0PrHM/0.jpg" alt="Video" />
+  </a>
+</p>
 
 <hr />
 
