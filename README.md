@@ -11,7 +11,7 @@
 
 <!-- About Me Section -->
 ## About Me
-I'm a Full-Stack Developer with a broad background in web development, backend systems, and system administration. I also love creating browser-based remakes of classic video games, WebApp, Software.
+I’m a Full-Stack Developer with a broad background in web development, backend systems, and system administration. I started coding on a Commodore 64 as a kid, then graduated to the Amiga 500 and Amiga 1000. Over the years I’ve used every version of Windows and many GNU/Linux distros—Debian (and its derivatives) remains my go-to. I also love creating browser-based remakes of classic video games, building WebApps and desktop software. When I’m not coding you’ll find me at a piano or keyboard rig—sometimes firing up my synths or shredding on guitar.
 
 <!-- What I Do -->
 ## What I Do
