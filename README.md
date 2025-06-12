@@ -96,7 +96,7 @@ I'm the author of *La storia di Linux* – a book that explores the evolution an
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
   <br /><br />
