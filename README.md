@@ -70,30 +70,91 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <!-- Contributions heatmap -->
   <img src="https://ghchart.rshah.org/bocaletto-luca" alt="Contributions Heatmap" /><br/><br/>
 
-<!-- Commits & WakaTime -->
+<!-- GitHub Stats & Badges -->
+## GitHub Stats
 <p align="center">
-  <img 
-    src="https://img.shields.io/github/commit-activity/y/bocaletto-luca" 
-    alt="Commits per Year" 
-  />
+  <!-- Stars, Followers, Repo Count, Hacktoberfest -->
+  <a href="https://github.com/bocaletto-luca" target="_blank">
+    <img src="https://img.shields.io/github/stars/bocaletto-luca?style=social" alt="GitHub Stars" />
+  </a>
   &nbsp;
-  <a href="https://wakatime.com">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&theme=radical" 
-      alt="WakaTime Stats" 
-    />
+  <a href="https://github.com/bocaletto-luca" target="_blank">
+    <img src="https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bocaletto-luca?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca" alt="Repo Count" />
+  </a>
+  &nbsp;
+  <a href="https://hacktoberfest.digital" target="_blank">
+    <img src="https://img.shields.io/badge/Hacktoberfest-Completed-blue" alt="Hacktoberfest" />
   </a>
 </p>
 
----
-
-## 🛠 Languages & Technologies
+<p align="center">
+  <!-- Top Languages, Overall Stats, Streak, and Summary Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
+  <br /><br />
+  <a href="https://github.com/bocaletto-luca" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark" alt="Profile Summary Card" />
+  </a>
+</p>
 
 <p align="center">
-  <strong>Programming Languages:</strong> Python • JavaScript • TypeScript • PHP • C++ • C# • Pascal • Basic • Assembly • Batch • PowerShell  
-  <strong>Front-End & Frameworks:</strong> HTML5 • CSS3 • React • Vue.js • Django  
-  <strong>Back-End & Databases:</strong> Node.js • MySQL • PostgreSQL • MongoDB  
-  <strong>DevOps & Servers:</strong> Docker • Linux • Debian • Apache • Nginx • SQL Server • Terminal • Security  
-  <strong>Embedded & Hardware:</strong> Arduino • Open Source • Open Hardware  
-  <strong>Tools & Interests:</strong> Visual Studio • Unity • Godot • Gaming
+  <a href="https://github.com/bocaletto-luca/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix" alt="GitHub Trophy" />
+  </a>
+</p> 
+
+<hr />
+
+<!-- Languages & Technologies Icons -->
+## Languages & Technologies
+<p align="center">
+  <strong>Front-End</strong> <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" title="JSON" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+  <strong>Back-End</strong> <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash Script" title="Bash Script" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+  <strong>Database</strong> <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+  <strong>Other (Frameworks & Tools)</strong> <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+  <strong>Systems</strong> <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GNU/Linux" title="GNU/Linux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" width="40" height="40" style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+  <strong>Additional Technologies & Languages</strong> <br /><br />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" style="margin-right: 10px;" />
 </p>
