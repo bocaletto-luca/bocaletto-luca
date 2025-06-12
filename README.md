@@ -124,7 +124,13 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 
 <hr />
 
-[![Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=bocaletto-luca&last_n_days=365&theme=github-light)](https://github.com/bocaletto-luca)
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bocaletto-luca&theme=github-dark&area=true&hide_border=true"
+    alt="Contributions Graph"
+  />
+</div>
 
 <!-- Languages & Technologies Icons -->
 ## Languages & Technologies
