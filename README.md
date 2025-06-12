@@ -170,3 +170,11 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" style="margin-right: 10px;" />
 </p>
+<p align="center">
+  **Programming:** Python • JavaScript • TypeScript • PHP • C++ • C# • Pascal • Basic • Assembly • Batch • PowerShell<br/>
+  **Front-End & Frameworks:** HTML5 • CSS3 • React • Vue.js • Django<br/>
+  **Back-End & Databases:** Node.js • MySQL • PostgreSQL • MongoDB<br/>
+  **DevOps & Servers:** Docker • Linux • Debian • Apache • Nginx • SQL Server • Terminal • Security<br/>
+  **Embedded & Hardware:** Arduino • Open Source • Open Hardware<br/>
+  **Tools & Interests:** Visual Studio • Unity • Godot • Gaming
+</p>
