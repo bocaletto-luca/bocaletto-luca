@@ -1,159 +1,167 @@
 <!-- Main Title & Introduction -->
-<h1 align="center">Hello, I'm Bocaletto Luca 👋</h1>
+<h1 align="center">Hello, I’m Luca Bocaletto 👋</h1>
 
 <p align="center">
-  <em>
-    An Italian Full-Stack Developer born in 1982 with a passion for technology, innovation, and immersive web experiences.
-  </em>
+  <em>Italian Full-Stack Developer (b. 1982) passionate about technology, immersive web experiences, and open innovation.</em>
 </p>
 
 <hr />
 
 <!-- About Me Section -->
 ## About Me
-I’m a Full-Stack Developer with a broad background in web development, backend systems, and system administration. I started with Commodore 64 as a kid, then graduated to the Amiga 500 and Amiga 1000. Over the years I’ve used every version of Windows and many GNU/Linux distros—Debian (and its derivatives) remains my go-to. I also love creating browser-based remakes of classic video games, building WebApps and desktop software. When I’m not coding you’ll find me at a piano or keyboard rig—sometimes firing up my synths or shredding on guitar.
+I’m a Full-Stack Developer with deep roots in web development, backend systems, and sysadmin.  
+I started on a Commodore 64, moved on to Amiga, all versions of Windows, and numerous GNU/Linux distros (Debian remains my go-to).  
+I build browser-based remakes of classic games, WebApps, desktop software, and tinker with hardware projects.  
+Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
 
 <!-- What I Do -->
 ## What I Do
-- **Web Development:** Crafting responsive websites using HTML5, CSS3, and modern JavaScript.
-- **Backend Development:** Building scalable applications with Python, Node.js, PHP, and robust databases.
-- **System Administration:** Ensuring peak performance and security for servers and networks.
-- **Web Games & Interactive Experiences:** Developing browser games and interactive applications that captivate users.
-- **Open Source Contributor:** Actively contributing to projects that push the boundaries of modern technology.
+- **Web Development:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Backend:** Python, Node.js, PHP, C#, PostgreSQL, MongoDB  
+- **DevOps & SysAdmin:** Docker, AWS, CI/CD, Linux (Debian), Security, Web & Database Servers  
+- **Games & Interactive:** Browser games (Canvas, WebGL), Unity, Godot  
+- **Embedded & IoT:** Arduino, Open Hardware, Open Source electronics  
+- **Open Source Contributor:** Actively contributing to projects that push the boundaries of tech
 
 <!-- Notable Projects -->
 ## Notable Projects
-- **Classic Web Games:** Browser remakes of iconic games—from Pong and Tetris to Chess and Scopa.
-- **Bootable USB Creator:** A Python tool with an intuitive GUI to make bootable USBs from ISO files.
-- **Files Compressor & Encryption:** A versatile utility for secure data compression.
-- **And Much More:** Discover all my projects on my [GitHub](https://github.com/bocaletto-luca/).
+- **Classic Web Games:** Browser remakes of Pong, Snake, Tetris, Chess, Scopa  
+- **Bootable USB Creator:** Python + Qt GUI tool for ISO→USB  
+- **Compressor & Encryptor:** Cross-platform CLI/GUI for secure data handling  
+- **…and much more:** Browse all my work on [GitHub](https://github.com/bocaletto-luca)
 
 <!-- Publications -->
 ## Publications
-I'm the author of *La storia di Linux* – a book that explores the evolution and impact of Linux, available on Amazon.
+- *La storia di Linux* – A deep dive into Linux’s evolution and impact (available on Amazon)
 
 <!-- Connect With Me -->
 ## Connect With Me
 <p align="center">
-  <a href="https://bocalettoluca.altervista.org" target="_blank">Official Website</a> •
-  <a href="https://bocaletto-luca.github.io" target="_blank">GitHub Pages</a> •
-  <a href="https://github.com/bocaletto-luca" target="_blank">GitHub</a> •
-  <a href="https://www.facebook.com/people/Luca-Bocaletto/pfbid0hJenerqZQQ6zJAkY6cc2511AeSiGHvP7Jxr3bBrA7Kque99TprKQn99b2t3eZ41Ll" target="_blank">Facebook</a> •
-  <a href="https://www.youtube.com/@elektronoide" target="_blank">YouTube</a>
+  <a href="https://bocalettoluca.altervista.org" target="_blank">🌐 Website</a> •
+  <a href="https://bocaletto-luca.github.io" target="_blank">📄 GitHub Pages</a> •
+  <a href="https://github.com/bocaletto-luca" target="_blank">🐙 GitHub</a> •
+  <a href="https://www.facebook.com/people/Luca-Bocaletto" target="_blank">📘 Facebook</a> •
+  <a href="https://www.youtube.com/@elektronoide" target="_blank">🎥 YouTube</a>
 </p>
 
 <p align="center">
-  <b>🎬 Video</b><br>
+  <b>🎬 Featured Video</b><br>
   <a href="https://www.youtube.com/watch?v=kX8hfK0PrHM">
-    <img src="https://img.youtube.com/vi/kX8hfK0PrHM/0.jpg" alt="Video" />
+    <img src="https://img.youtube.com/vi/kX8hfK0PrHM/0.jpg" alt="Featured Video" width="320" />
   </a>
 </p>
 
 <hr />
 
 <!-- Repository Highlights -->
-## Repository Highlights
+## 🔖 Repository Highlights
 <p align="center">
-  <a href="https://github.com/bocaletto-luca/Pong" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical" alt="Pong" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/bocaletto-luca/Snake" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical" alt="Snake" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/bocaletto-luca/Chess" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical" alt="Chess" />
-  </a>
+  <a href="https://github.com/bocaletto-luca/Pong"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical" alt="Pong" /></a>
+  <a href="https://github.com/bocaletto-luca/Snake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical" alt="Snake" /></a>
+  <a href="https://github.com/bocaletto-luca/Chess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical" alt="Chess" /></a>
 </p>
 
 <hr />
 
-<!-- GitHub Stats & Badges -->
-## GitHub Stats
+<!-- GitHub Stats & Charts -->
+## 📊 GitHub Stats & Charts
 <p align="center">
-  <!-- Stars, Followers, Repo Count, Hacktoberfest -->
-  <a href="https://github.com/bocaletto-luca" target="_blank">
-    <img src="https://img.shields.io/github/stars/bocaletto-luca?style=social" alt="GitHub Stars" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bocaletto-luca" target="_blank">
-    <img src="https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bocaletto-luca?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca" alt="Repo Count" />
-  </a>
-  &nbsp;
-  <a href="https://hacktoberfest.digital" target="_blank">
-    <img src="https://img.shields.io/badge/Hacktoberfest-Completed-blue" alt="Hacktoberfest" />
-  </a>
-</p>
+  <!-- Overall summary (incl. private & commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br /><br/>
 
-<p align="center">
-  <!-- Top Languages, Overall Stats, Streak, and Summary Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
-  <br /><br />
-  <a href="https://github.com/bocaletto-luca" target="_blank">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark" alt="Profile Summary Card" />
-  </a>
-</p>
+  <!-- Top Languages (compact + pie) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&count_private=true" alt="Top Languages (Compact)" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=pie&theme=radical&count_private=true" alt="Top Languages (Pie)" />
+  <br /><br/>
 
-<p align="center">
-  <a href="https://github.com/bocaletto-luca/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix" alt="GitHub Trophy" />
-  </a>
-</p> 
+  <!-- Language Distribution Pie (QuickChart) -->
+  ![Language Pie](https://quickchart.io/chart?c={
+    type:'doughnut',
+    data:{
+      labels:['Python','JavaScript','PHP','C%23','C%2B%2B','TypeScript','HTML','CSS','Others'],
+      datasets:[{
+        data:[30,20,10,8,7,8,5,5,7],
+        backgroundColor:['#3572A5','#f1e05a','#4F5D95','#178600','#00599C','#3178C6','#e34c26','#563d7c','#cccccc']
+      }]
+    },
+    options:{
+      plugins:{doughnutlabel:{labels:[{text:'100%',font:{size:20}}]}}
+    }
+  })
+  <br /><br/>
+
+  <!-- Contribution Heatmap -->
+  ![Contributions](https://activity-graph.herokuapp.com/graph?username=bocaletto-luca&theme=github-dark&area=true)
+  <br /><br/>
+
+  <!-- Commit Activity & WakaTime -->
+  <img src="https://img.shields.io/github/commit-activity/y/bocaletto-luca" alt="Commits per Year" />
+  &nbsp;
+  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&theme=radical)](https://wakatime.com)
+</p>
 
 <hr />
 
 <!-- Languages & Technologies Icons -->
-## Languages & Technologies
+## 🛠 Languages & Technologies
+
 <p align="center">
-  <strong>Front-End</strong> <br /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" title="JSON" width="40" height="40" style="margin-right: 10px;" />
+  <strong>Programming Languages</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="40" title="Pascal" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/basic/basic-original.svg" width="40" title="Basic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="40" title="Assembly" />
+  <img src="https://img.shields.io/badge/Batch-0078D6?style=flat&logo=windows" width="40" title="Batch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" title="PowerShell" />
 </p>
 
 <p align="center">
-  <strong>Back-End</strong> <br /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash Script" title="Bash Script" width="40" height="40" style="margin-right: 10px;" />
+  <strong>Front-End & Frameworks</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" title="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django" />
 </p>
 
 <p align="center">
-  <strong>Database</strong> <br /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="40" height="40" style="margin-right: 10px;" />
+  <strong>Back-End & Databases</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
 
 <p align="center">
-  <strong>Other (Frameworks & Tools)</strong> <br /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="40" height="40" style="margin-right: 10px;" />
+  <strong>DevOps & Servers</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" title="Debian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="Apache" />
+  <img src="https://img.shields.io/badge/Web%20Server-0099AA?style=flat&logo=nginx" width="40" title="Web Server" />
+  <img src="https://img.shields.io/badge/DB%20Server-4479A1?style=flat&logo=microsoft%20sql%20server" width="40" title="Database Server" />
+  <img src="https://img.shields.io/badge/Terminal-F0DB4F?style=flat&logo=gnometerminal" width="40" title="Terminal" />
 </p>
 
 <p align="center">
-  <strong>Systems</strong> <br /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="GNU/Linux" title="GNU/Linux" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" width="40" height="40" style="margin-right: 10px;" />
+  <strong>Hardware & Embedded</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino" />
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=flat&logo=github" width="40" title="Open Source" />
+  <img src="https://img.shields.io/badge/Open%20Hardware-DD0F20?style=flat&logo=hackaday" width="40" title="Open Hardware" />
 </p>
 
 <p align="center">
-  <strong>Additional Technologies & Languages</strong> <br /><br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" style="margin-right: 10px;" />
+  <strong>Tools & Interests</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godotengine/godotengine-original.svg" width="40" title="Godot" />
+  <img src="https://img.shields.io/badge/Security-FFCB00?style=flat&logo=norton" width="40" title="Security" />
+  <img src="https://img.shields.io/badge/Gamer-FF0060?style=flat&logo=xbox" width="40" title="Gamer" />
 </p>
