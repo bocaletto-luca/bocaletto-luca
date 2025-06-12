@@ -106,8 +106,7 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 
 <p align="center">
   <!-- Top Languages, Overall Stats, Streak, and Summary Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Top Languages" />
-  <br /><br />
+
   <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
