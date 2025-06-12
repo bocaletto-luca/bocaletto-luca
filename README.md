@@ -121,8 +121,10 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     <img src="https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=matrix" alt="GitHub Trophy" />
   </a>
 </p> 
-[![Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=bocaletto-luca&last_n_days=365&theme=github-light)](https://github.com/bocaletto-luca)
+
 <hr />
+
+[![Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=bocaletto-luca&last_n_days=365&theme=github-light)](https://github.com/bocaletto-luca)
 
 <!-- Languages & Technologies Icons -->
 ## Languages & Technologies
