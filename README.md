@@ -70,10 +70,19 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <!-- Contributions heatmap -->
   <img src="https://ghchart.rshah.org/bocaletto-luca" alt="Contributions Heatmap" /><br/><br/>
 
-  <!-- Commits & WakaTime -->
-  <img src="https://img.shields.io/github/commit-activity/y/bocaletto-luca" alt="Commits per Year" />
+<!-- Commits & WakaTime -->
+<p align="center">
+  <img 
+    src="https://img.shields.io/github/commit-activity/y/bocaletto-luca" 
+    alt="Commits per Year" 
+  />
   &nbsp;
-  [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&theme=radical)](https://wakatime.com)
+  <a href="https://wakatime.com">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&theme=radical" 
+      alt="WakaTime Stats" 
+    />
+  </a>
 </p>
 
 ---
@@ -81,10 +90,10 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 ## 🛠 Languages & Technologies
 
 <p align="center">
-<strong>Programming:</strong> Python • JavaScript • TypeScript • PHP • C++ • C# • Pascal • Basic • Assembly • Batch • PowerShell<br/>
-<strong>Front-End & Frameworks:</strong> HTML5 • CSS3 • React • Vue.js • Django<br/>
-<strong>Back-End & DB:</strong> Node.js • MySQL • PostgreSQL • MongoDB<br/>
-<strong>DevOps & Servers:</strong> Docker • Linux • Debian • Apache • Nginx • SQL Server • Terminal • Security<br/>
-<strong>Embedded & HW:</strong> Arduino • Open Source • Open Hardware<br/>
-<strong>Tools & Interests:</strong> Visual Studio • Unity • Godot • Gaming
+  <strong>Programming Languages:</strong> Python • JavaScript • TypeScript • PHP • C++ • C# • Pascal • Basic • Assembly • Batch • PowerShell  
+  <strong>Front-End & Frameworks:</strong> HTML5 • CSS3 • React • Vue.js • Django  
+  <strong>Back-End & Databases:</strong> Node.js • MySQL • PostgreSQL • MongoDB  
+  <strong>DevOps & Servers:</strong> Docker • Linux • Debian • Apache • Nginx • SQL Server • Terminal • Security  
+  <strong>Embedded & Hardware:</strong> Arduino • Open Source • Open Hardware  
+  <strong>Tools & Interests:</strong> Visual Studio • Unity • Godot • Gaming
 </p>
