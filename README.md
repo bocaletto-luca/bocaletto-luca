@@ -83,25 +83,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   />
   <br /><br />
 
-<p align="center">
-  <!-- Contributions heatmap (self-hosted via Action) -->
-  <img src="./assets/contrib.svg" alt="Contributions Heatmap" />
-  <br/><br/>
-
-  <!-- Commits per year & WakaTime -->
-  <img
-    src="https://img.shields.io/github/commit-activity/y/bocaletto-luca"
-    alt="Commits per Year"
-  />
-  &nbsp;
-  <a href="https://wakatime.com">
-    <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=bocaletto-luca&theme=radical"
-      alt="WakaTime Stats"
-    />
-  </a>
-</p>
-
 </div>
 
 <p align="center">
