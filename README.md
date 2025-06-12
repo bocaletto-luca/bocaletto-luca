@@ -60,8 +60,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" /><br/><br/>
 
   <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&count_private=true" alt="Top Languages Compact" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=pie&theme=radical&count_private=true" alt="Top Languages Pie" /><br/><br/>
 
   <!-- Language distribution pie -->
@@ -70,8 +68,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <!-- Contributions heatmap -->
   <img src="https://ghchart.rshah.org/bocaletto-luca" alt="Contributions Heatmap" /><br/><br/>
 
-<!-- GitHub Stats & Badges -->
-## GitHub Stats
 <p align="center">
   <!-- Stars, Followers, Repo Count, Hacktoberfest -->
   <a href="https://github.com/bocaletto-luca" target="_blank">
