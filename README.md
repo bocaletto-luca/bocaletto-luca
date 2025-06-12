@@ -92,11 +92,9 @@ I'm the author of *La storia di Linux* – a book that explores the evolution an
 
 <p align="center">
   <!-- Top Languages, Overall Stats, Streak, and Summary Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Top Languages" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
   <br /><br />
