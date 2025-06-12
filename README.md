@@ -178,11 +178,30 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" width="40" height="40" style="margin-right: 10px;" />
 </p>
-<p align="center">
-  **Programming:** Python • JavaScript • TypeScript • PHP • C++ • C# • Pascal • Basic • Assembly • Batch • PowerShell<br/>
-  **Front-End & Frameworks:** HTML5 • CSS3 • React • Vue.js • Django<br/>
-  **Back-End & Databases:** Node.js • MySQL • PostgreSQL • MongoDB<br/>
-  **DevOps & Servers:** Docker • Linux • Debian • Apache • Nginx • SQL Server • Terminal • Security<br/>
-  **Embedded & Hardware:** Arduino • Open Source • Open Hardware<br/>
-  **Tools & Interests:** Visual Studio • Unity • Godot • Gaming
-</p>
+<div align="center">
+  <p>
+    <strong>Programming:</strong>
+    Python &bull; JavaScript &bull; TypeScript &bull; PHP &bull; C++ &bull; C# &bull; Pascal &bull; Basic &bull; Assembly &bull; Batch &bull; PowerShell
+  </p>
+  <p>
+    <strong>Front-End &amp; Frameworks:</strong>
+    HTML5 &bull; CSS3 &bull; React &bull; Vue.js &bull; Django
+  </p>
+  <p>
+    <strong>Back-End &amp; Databases:</strong>
+    Node.js &bull; MySQL &bull; PostgreSQL &bull; MongoDB
+  </p>
+  <p>
+    <strong>DevOps &amp; Servers:</strong>
+    Docker &bull; Linux &bull; Debian &bull; Apache &bull; Nginx &bull; SQL Server &bull; Terminal &bull; Security
+  </p>
+  <p>
+    <strong>Embedded &amp; Hardware:</strong>
+    Arduino &bull; Open Source &bull; Open Hardware
+  </p>
+  <p>
+    <strong>Tools &amp; Interests:</strong>
+    Visual Studio &bull; Unity &bull; Godot &bull; Gaming
+  </p>
+</div>
+
