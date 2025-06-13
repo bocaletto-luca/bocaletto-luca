@@ -204,38 +204,30 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     Visual Studio &bull; Unity &bull; Godot &bull; Gaming
   </p>
 </div>
-
 <table align="center" width="100%">
-  <!-- Row 1: Tech Badges full width -->
   <tr>
-    <td colspan="3" align="center">
-      <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux" alt="Linux" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown" alt="Love Markdown" />
-    </td>
-  </tr>
-
-  <!-- Row 2: Line Mode | Quote | Farm Mode -->
-  <tr>
-    <td align="center" width="45%">
-      <!-- Gitanimals Line Mode -->
+    <!-- Colonna 1: Gitanimals Line Mode -->
+    <td align="center" width="65%">
       <a href="https://github.com/git-goods/gitanimals">
         <img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1"
              width="100%" alt="Gitanimals Line Mode" />
       </a>
     </td>
-    <td align="center" width="20%">
-      <!-- Random Quote -->
+
+    <!-- Colonna 2: Random Quote -->
+    <td align="center" width="35%">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox"
            alt="Random Quote" />
     </td>
-    <td align="center" width="35%">
-      <!-- Gitanimals Farm Mode -->
+  </tr>
+
+  <tr>
+    <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
+    <td colspan="2" align="center">
       <a href="https://github.com/git-goods/gitanimals">
         <img src="https://render.gitanimals.org/farms/bocaletto-luca"
-             width="100%" alt="Gitanimals Farm Mode" />
+             width="80%" alt="Gitanimals Farm Mode" />
       </a>
     </td>
   </tr>
 </table>
-
