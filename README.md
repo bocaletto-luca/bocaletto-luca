@@ -204,6 +204,7 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     Visual Studio &bull; Unity &bull; Godot &bull; Gaming
   </p>
 </div>
+
 <!-- Tech Badges -->
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
 ![Love Markdown](https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown)
