@@ -64,16 +64,15 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   />
   <br /><br />
 
-  <!-- Top languages: compact & pie -->
-<!-- Top languages: compact & pie, 12 languages -->
+<!-- Top languages: compact & pie, fino a 20 linguaggi -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=compact&theme=radical&count_private=true&langs_count=12"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&layout=compact&theme=radical&count_private=true&langs_count=20"
   alt="Top Languages Compact" />
 &nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocaletto-luca&layout=pie&theme=radical&count_private=true&langs_count=12"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&layout=pie&theme=radical&count_private=true&langs_count=20"
   alt="Top Languages Pie" />
-<br /><br />
+
 
 
   <!-- Language distribution doughnut -->
