@@ -209,8 +209,8 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 
 ---
 
-<img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1&contribution-view=false" width="1000" height="120"/>
+<img src="https://render.gitanimals.org/farms/bocaletto-luca"/>
 
 ---
 
-<img src="https://render.gitanimals.org/farms/bocaletto-luca"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bocaletto-luca=anuraghazra&langs_count=20)
