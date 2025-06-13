@@ -204,17 +204,17 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     Visual Studio &bull; Unity &bull; Godot &bull; Gaming
   </p>
 </div>
+
 <table align="center" width="100%">
   <tr>
-    <!-- Colonna 1: Gitanimals Line Mode -->
+<!-- Colonna 1: Gitanimals Line Mode -->
     <td align="center" width="65%">
       <a href="https://github.com/git-goods/gitanimals">
         <img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1"
              width="100%" alt="Gitanimals Line Mode" />
       </a>
     </td>
-
-    <!-- Colonna 2: Random Quote -->
+<!-- Colonna 2: Random Quote -->
   <td align="center" width="35%">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox"
            alt="Random Quote" />
@@ -222,7 +222,7 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   </tr>
 
   <tr>
-    <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
+<!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
     <td colspan="2" align="center">
       <a href="https://github.com/git-goods/gitanimals">
         <img src="https://render.gitanimals.org/farms/bocaletto-luca"
