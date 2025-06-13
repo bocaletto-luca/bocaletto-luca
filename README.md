@@ -73,7 +73,8 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   src="https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&layout=pie&theme=radical&count_private=true&langs_count=20"
   alt="Top Languages Pie" />
 
-
+<!-- Metrics SVG (mostra *tutte* le lingue che usi) -->
+![Metrics](https://github.com/bocaletto-luca/bocaletto-luca/blob/main/github-metrics.svg)
 
   <!-- Language distribution doughnut -->
   <img
