@@ -215,10 +215,10 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     </td>
 
     <!-- Colonna 2: Random Quote -->
-    <td align="center" width="35%">
+  <td align="center" width="35%">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox"
            alt="Random Quote" />
-    </td>
+  </td>
   </tr>
 
   <tr>
