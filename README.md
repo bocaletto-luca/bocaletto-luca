@@ -69,21 +69,10 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   src="https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&layout=compact&theme=radical&count_private=true&langs_count=20"
   alt="Top Languages Compact" />
 &nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&layout=pie&theme=radical&count_private=true&langs_count=20"
-  alt="Top Languages Pie" />
-
-<p align="center">
-  <!-- Conteggio totale linguaggi -->
-  
-  ![Languages Count](https://img.shields.io/github/languages/count/bocaletto-luca)
-
-  <!-- Ripartizione repo per linguaggio (tutte le lingue) -->
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bocaletto-luca&theme=radical" alt="Repos per Language"/>
 
 </p>
-
 
   <!-- Language distribution doughnut -->
   <img
