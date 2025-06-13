@@ -204,6 +204,9 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     Visual Studio &bull; Unity &bull; Godot &bull; Gaming
   </p>
 </div>
+<!-- Tech Badges -->
+![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
+![Love Markdown](https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown)
 
 <!-- Gitanimals Line Mode -->
 <a href="https://github.com/git-goods/gitanimals">
@@ -215,36 +218,5 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <img src="https://render.gitanimals.org/farms/bocaletto-luca"/>
 </a>
 
-<!-- Top langs -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&langs_count=20&theme=radical)
-
-<!-- Metrics -->
-![Metrics](https://raw.githubusercontent.com/bocaletto-luca/bocaletto-luca/main/github-metrics.svg)
-
-<!-- Profile Trophy -->
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=bocaletto-luca&theme=gruvbox)
-
-<!-- Contribution Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bocaletto-luca&theme=dracula)
-
-<!-- Achievement Badge -->
-<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png" width="100"/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=bocaletto-luca&theme=tokyonight_duo" />
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=bocaletto-luca&color=green)
-
-<!-- Summary Cards -->
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark)
-
-<!-- Contribution Calendar -->
-![Contributions](https://ghchart.rshah.org/bocaletto-luca)
-
 <!-- Random Quote -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
-
-<!-- Tech Badges -->
-![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-![Love Markdown](https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown)
