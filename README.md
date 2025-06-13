@@ -205,19 +205,27 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   </p>
 </div>
 
-<!-- Tech Badges -->
-![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-![Love Markdown](https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown)
+<p align="center">
+  <!-- Tech Badges -->
+  <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown" alt="Love Markdown" />
+</p>
 
-<!-- Gitanimals Line Mode -->
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1" width="1000" height="120"/>
-</a>
+<p align="center">
+  <!-- Gitanimals Line Mode -->
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1" width="1000" height="120" alt="Gitanimals Line Mode" />
+  </a>
+</p>
 
-<!-- Gitanimals Farm Mode -->
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/farms/bocaletto-luca"/>
-</a>
+<p align="center">
+  <!-- Gitanimals Farm Mode -->
+  <a href="https://github.com/git-goods/gitanimals">
+    <img src="https://render.gitanimals.org/farms/bocaletto-luca" alt="Gitanimals Farm Mode" />
+  </a>
+</p>
 
-<!-- Random Quote -->
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
+<p align="center">
+  <!-- Random Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Quote" />
+</p>
