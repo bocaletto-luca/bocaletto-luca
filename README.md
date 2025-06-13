@@ -205,27 +205,37 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   </p>
 </div>
 
-<p align="center">
-  <!-- Tech Badges -->
-  <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown" alt="Love Markdown" />
-</p>
+<table align="center" width="100%">
+  <!-- Row 1: Tech Badges full width -->
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/OS-Linux-blue?logo=linux" alt="Linux" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Markdown-%E2%9D%A4-lightgrey?logo=markdown" alt="Love Markdown" />
+    </td>
+  </tr>
 
-<p align="center">
-  <!-- Gitanimals Line Mode -->
-  <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1" width="1000" height="120" alt="Gitanimals Line Mode" />
-  </a>
-</p>
+  <!-- Row 2: Line Mode | Quote | Farm Mode -->
+  <tr>
+    <td align="center" width="45%">
+      <!-- Gitanimals Line Mode -->
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/lines/bocaletto-luca?pet-id=1"
+             width="100%" alt="Gitanimals Line Mode" />
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <!-- Random Quote -->
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox"
+           alt="Random Quote" />
+    </td>
+    <td align="center" width="35%">
+      <!-- Gitanimals Farm Mode -->
+      <a href="https://github.com/git-goods/gitanimals">
+        <img src="https://render.gitanimals.org/farms/bocaletto-luca"
+             width="100%" alt="Gitanimals Farm Mode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Gitanimals Farm Mode -->
-  <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/farms/bocaletto-luca" alt="Gitanimals Farm Mode" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Random Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Quote" />
-</p>
