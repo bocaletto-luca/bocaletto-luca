@@ -205,3 +205,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   </p>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{bocaletto-luca}?pet-id=1" width="1000" height="120"/>
+</a>
