@@ -75,6 +75,7 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 
 <p align="center">
   <!-- Conteggio totale linguaggi -->
+  
   ![Languages Count](https://img.shields.io/github/languages/count/bocaletto-luca)
 
   <!-- Ripartizione repo per linguaggio (tutte le lingue) -->
