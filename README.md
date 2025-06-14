@@ -216,3 +216,7 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     </td>
   </tr>
 </table>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=bocaletto-luca&label=Profile%20views&color=ce9927&style=flat" alt="bocaletto-luca" />
+</p>
