@@ -46,6 +46,7 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 ---
 
 ## 🔖 Repository Highlights
+
 <p align="center">
   <a href="https://github.com/bocaletto-luca/Pong"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical" alt="Pong" /></a>
   <a href="https://github.com/bocaletto-luca/Snake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical" alt="Snake" /></a>
@@ -83,15 +84,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   />
   <br /><br />
 
-<!-- Top languages: compact & pie, fino a 20 linguaggi -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=bocaletto-luca&layout=compact&theme=radical&count_private=true&langs_count=20"
-  alt="Top Languages Compact" />
-&nbsp;
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bocaletto-luca&theme=radical" alt="Repos per Language"/>
-
-</p>
 
   <!-- Language distribution doughnut -->
   <img
