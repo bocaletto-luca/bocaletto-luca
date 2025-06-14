@@ -94,8 +94,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
     alt="GitHub Stats"
   />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=bocaletto-luca&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
   <br /><br />
   <a href="https://github.com/bocaletto-luca" target="_blank">
