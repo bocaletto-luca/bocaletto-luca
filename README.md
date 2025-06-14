@@ -56,6 +56,25 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
 
 ## 📊 GitHub Stats & Charts
 
+<p align="center">
+  <!-- Stars, Followers, Repo Count, Hacktoberfest -->
+  <a href="https://github.com/bocaletto-luca" target="_blank">
+    <img src="https://img.shields.io/github/stars/bocaletto-luca?style=social" alt="GitHub Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bocaletto-luca" target="_blank">
+    <img src="https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bocaletto-luca?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca" alt="Repo Count" />
+  </a>
+  &nbsp;
+  <a href="https://hacktoberfest.digital" target="_blank">
+    <img src="https://img.shields.io/badge/Hacktoberfest-Completed-blue" alt="Hacktoberfest" />
+  </a>
+</p>
+
 <div align="center">
   <!-- Overall stats -->
   <img
@@ -82,25 +101,6 @@ Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar
   <br /><br />
 
 </div>
-
-<p align="center">
-  <!-- Stars, Followers, Repo Count, Hacktoberfest -->
-  <a href="https://github.com/bocaletto-luca" target="_blank">
-    <img src="https://img.shields.io/github/stars/bocaletto-luca?style=social" alt="GitHub Stars" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bocaletto-luca" target="_blank">
-    <img src="https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/bocaletto-luca?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca" alt="Repo Count" />
-  </a>
-  &nbsp;
-  <a href="https://hacktoberfest.digital" target="_blank">
-    <img src="https://img.shields.io/badge/Hacktoberfest-Completed-blue" alt="Hacktoberfest" />
-  </a>
-</p>
 
 <p align="center">
   <!-- Top Languages, Overall Stats, Streak, and Summary Card -->
