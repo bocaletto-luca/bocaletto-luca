@@ -6,7 +6,8 @@
 ## About Me
 I’m a Full-Stack Developer with roots in web development, backend systems & sysadmin.  
 I started on a Commodore 64, moved to Amiga, mastered every Windows version and dozens of GNU/Linux distros (Debian is my go-to).  
-I build browser-based remakes of classics, WebApps, desktop software, and tinker with electronics.  
+I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Server Software, and tinker with electronics.
+Like: Making, Use and mod Print 3D, Astronomy, HAM Radio. 
 Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
 
 ---
