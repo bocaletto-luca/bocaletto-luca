@@ -49,12 +49,19 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 ## 🔖 Repository Highlights
 
 <p align="center">
-  <a href="https://github.com/bocaletto-luca/Pong"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical" alt="Pong" /></a>
-  <a href="https://github.com/bocaletto-luca/Snake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical" alt="Snake" /></a>
-  <a href="https://github.com/bocaletto-luca/Chess"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical" alt="Chess" /></a>
+  <a href="https://github.com/bocaletto-luca/Pong">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Pong&theme=radical&fresh=1676272000" alt="Pong" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Snake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Snake&theme=radical&fresh=1676272000" alt="Snake" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Chess">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+  </a>
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats & Charts
 
