@@ -23,7 +23,7 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 ---
 
 ## Notable Projects
-- **Classic Web Games:** Browser remakes of Pong, Snake, Tetris, Chess, Scopa  
+- **Classic Web Games:** Browser remakes of Pong, Snake, Tetris, Chess, Scopa, and other games. 
 - **Bootable USB Creator:** Python + Qt GUI tool for ISO→USB  
 - **Compressor & Encryptor:** Cross-platform CLI/GUI for secure data handling  
 - **…and more:** [Explore all my work on GitHub](https://github.com/bocaletto-luca)
