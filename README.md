@@ -7,7 +7,7 @@
 I’m a Full-Stack Developer with roots in web development, backend systems & sysadmin.  
 I started on a Commodore 64, moved to Amiga, mastered every Windows version and dozens of GNU/Linux distros (Debian is my go-to).  
 I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Server Software, and tinker with electronics.
-- **Like:** Making, Use and mod Print 3D, Astronomy, HAM Radio. 
+- **Like:** Making, Use and mod Print 3D, Drawing 3D, Chess, Astronomy, HAM Radio. 
 - **Music** Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
 
 ---
@@ -16,10 +16,10 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 - **Web Development:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
 - **Backend:** Python, Node.js, PHP, C#, C++, PostgreSQL, MongoDB  
 - **DevOps & SysAdmin:** Docker, AWS, CI/CD, Debian Linux, Apache, Web & DB servers, Security  
-- **Games & Interactive:** Canvas, WebGL, Unity, Godot  
+- **Games & Interactive:** Canvas, WebGL, Unity, Godot, Unreal Engine.  
 - **Embedded & IoT:** Arduino, Open Source, Open Hardware  
 - **Open Source Contributor:** Actively pushing cutting-edge projects forward  
-
+- **Other Language: C, C++, C#, BASH, BATCH, Pascal, Cobol, Assembly. 
 ---
 
 ## Notable Projects
