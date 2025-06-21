@@ -62,6 +62,9 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 
 ---
 
+![terminal-session](https://github.com/user-attachments/assets/765b82a8-5118-4f56-9aaa-71a5a203f26f)
+
+---
 
 ## 📊 GitHub Stats & Charts
 
