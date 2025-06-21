@@ -107,7 +107,7 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
     
 <br /><br />
 
-![GitHub Streak](./streak.svg)
+![GitHub Streak](./steak-stats.svg)
 
  <br /><br />
   <a href="https://github.com/bocaletto-luca" target="_blank">
