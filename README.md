@@ -107,11 +107,7 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
     
 <br /><br />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bocaletto-luca&theme=radical)
-
-<br /><br />
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bocaletto-luca&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bocaletto-luca&theme=radical&cache_seconds=0)
 
  <br /><br />
   <a href="https://github.com/bocaletto-luca" target="_blank">
