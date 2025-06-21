@@ -70,21 +70,19 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
   <a href="https://github.com/bocaletto-luca" target="_blank">
     <img src="https://img.shields.io/github/stars/bocaletto-luca?style=social" alt="GitHub Stars" />
   </a>
-  <br />
+  &nbsp
   <a href="https://github.com/bocaletto-luca" target="_blank">
     <img src="https://img.shields.io/github/followers/bocaletto-luca?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <br />
+  &nbsp
   <a href="https://github.com/bocaletto-luca?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbocaletto-luca" alt="Repo Count" />
   </a>
-  <br />
+  &nbsp
   <a href="https://hacktoberfest.digital" target="_blank">
     <img src="https://img.shields.io/badge/Hacktoberfest-Completed-blue" alt="Hacktoberfest" />
   </a>
 </p>
-
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr)
 
   <!-- Language distribution doughnut -->
   <img
@@ -104,6 +102,8 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
     alt="GitHub Stats"
   />
   <br /><br />
+    ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr)
+<br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
   <br /><br />
   <a href="https://github.com/bocaletto-luca" target="_blank">
