@@ -238,4 +238,7 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bocaletto-luca&label=Profile%20views&color=ce9927&style=flat" alt="bocaletto-luca" />
+
+[![committers.top badge](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://user-badge.committers.top/italy/bocaletto-luca)
+
 </p>
