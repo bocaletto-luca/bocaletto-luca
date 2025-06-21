@@ -131,6 +131,9 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
     src="https://github-readme-activity-graph.vercel.app/graph?username=bocaletto-luca&theme=github-dark&area=true&hide_border=true"
     alt="Contributions Graph"
   />
+
+[![Productive Time Card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bocaletto-luca&theme=tokyonight&utcOffset=+2.0)](http://github-profile-summary-cards.vercel.app/)
+  
 </div>
 
 <!-- Languages & Technologies Icons -->
