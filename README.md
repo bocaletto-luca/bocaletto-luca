@@ -102,7 +102,9 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
     alt="GitHub Stats"
   />
   <br /><br />
+  
     ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=bocaletto-luca&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr)
+    
 <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
   <br /><br />
