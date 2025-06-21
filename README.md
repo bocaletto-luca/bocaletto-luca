@@ -108,6 +108,8 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
   <br /><br />
+  <img src="https://streak-stats.demolab.com/?user=bocaletto-luca&theme=radical" alt="GitHub Streak" />
+ <br /><br />
   <a href="https://github.com/bocaletto-luca" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bocaletto-luca&theme=github_dark" alt="Profile Summary Card" />
   </a>
