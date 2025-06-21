@@ -240,7 +240,8 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
     <img src="https://komarev.com/ghpvc/?username=bocaletto-luca&label=Profile%20views&color=ce9927&style=flat" alt="bocaletto-luca" />
 </p>
 
-- **Italy:** [![Commits Ranking in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://commiters.top/italy.html)
+[![Commits Ranking in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://commiters.top/italy.html)
 
 
-[View Top GitHub Users by Public Contributions in Italy](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
+According to the [Top GitHub Users by Public Contributions in Italy](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md), I am currently ranked **#27 in Italy** among GitHub contributors. Proud to be part of an active community!
+
