@@ -1,0 +1,29 @@
+name: Update Streak Card
+on:
+  schedule:
+    - cron: "0 * * * *"  # Aggiorna ogni ora. Puoi personalizzare il cron
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          npm install -g lowlighter/metrics
+
+      - name: Generate Streak Card
+        run: |
+          # Genera un file 'streak.svg' basato sulle impostazioni di default per la streak
+          metrics streak --username bocaletto-luca --theme radical --output streak.svg
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git commit -m "Aggiorna il file stanza streak" || echo "Nessuna modifica"
+          git push
