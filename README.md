@@ -246,5 +246,3 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 
 **Check out my current ranking in GitHub contributions for Italy:**  
 [Ranked #27 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
-
-[Check out my position on the public contributions ranking in Italy](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
