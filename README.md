@@ -248,13 +248,9 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 
 [![Commits Ranking #20 in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://commiters.top/italy.html)
 
+[Visit Commiters Italy](https://commiters.top/italy.html)
 
-<a href="https://commiters.top/italy.html" target="_blank">
-  <button style="background-color: #337ab7; color: #fff; border: none; padding: 10px 20px; font-size: 16px; border-radius: 4px; cursor: pointer;">
-    Visit Commiters Italy
-  </button>
-</a>
-
+---
 
 ** Story Top Rank Italy Contributions #24 **
 
