@@ -248,6 +248,8 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 
 [![Commits Ranking #20 in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)]([https://commiters.top/italy.html](https://committers.top/italy))
 
+[https://commiters.top/italy.html](https://committers.top/italy](https://committers.top/italy)
+
 ** Story Top Rank Italy Contributions #24 **
 
 **Check out my current ranking in GitHub Contributions for Italy:**  
