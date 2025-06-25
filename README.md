@@ -10,6 +10,8 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 - **Like:** Making, Use and mod Print 3D, Drawing 3D, Chess, Astronomy, HAM Radio. 
 - **Music** Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
 
+I believe that in our profession there is nothing more stupid and cowardly than stealing code without mentioning the author.
+
 ---
 
 ## What I Do
