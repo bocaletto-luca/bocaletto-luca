@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Luca Bocaletto 👋</h1>
-<p align="center"><em>Italian Full-Stack Developer (born 1982) passionate about technology, immersive web experiences, open source & open hardware.</em></p>
+<p align="center"><em>Italian Full-Stack Developer (born 1982) in Chivasso (TO), passionate about technology, immersive web experiences, open source & open hardware.</em></p>
 
 ---
 
