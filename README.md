@@ -10,6 +10,11 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 - **Like:** Making, Use and mod Print 3D, Drawing 3D, Chess, Astronomy, HAM Radio. 
 - **Music** Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
 
+Among the figures who have inspired me most are Linus Torvalds, Richard Stallman, Guido van Rossum, Dennis Ritchie, Ken Thompson, Robert Kahn, Nikola Tesla, Abbie Hoffman, John Draper, Kevin Mitnick, and Steve Wozniak.
+
+---
+
+## Comment
 I believe that in our profession there is nothing more stupid and cowardly than stealing code without mentioning the author.
 
 ---
