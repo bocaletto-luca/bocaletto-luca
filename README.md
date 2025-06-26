@@ -15,13 +15,13 @@ I believe that in our profession there is nothing more stupid and cowardly than 
 ---
 
 ## What I Do
-- **Web Development:** HTML5, CSS3, JavaScript, TypeScript  
+- **Web Development:** HTML5, CSS3, JavaScript, TypeScript, JSON.  
 - **Backend:** Python, Node.js, PHP, SQL.  
 - **DevOps & SysAdmin:** Docker, AWS, CI/CD, Debian Linux, Apache, Web & DB servers, Security  
 - **Games & Interactive:** Canvas, WebGL, Unity, Godot, Unreal Engine, Vulkan.  
 - **Embedded & IoT:** Arduino, Open Source, Open Hardware  
 - **Open Source Contributor:** Actively pushing cutting-edge projects forward  
-- **Other Language: C, C++, C#, BASH, BATCH, Pascal, Cobol, Assembly, Basic, and others. 
+- **Other Language: Python, C, C++, C#, BASH, BATCH, Pascal, Cobol, Assembly, Basic, and others. 
 ---
 
 ## Notable Projects
