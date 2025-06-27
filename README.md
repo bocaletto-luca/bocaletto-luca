@@ -14,11 +14,6 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
-## Comment
-I believe that in our profession there is nothing more stupid and cowardly than stealing code without mentioning the author.
-
----
-
 ## What I Do
 - **Web Development:** HTML5, CSS3, JavaScript, TypeScript, JSON.  
 - **Backend:** Python, Node.js, PHP, SQL.  
