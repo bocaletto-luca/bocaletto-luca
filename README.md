@@ -244,20 +244,20 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ### Developer TOP Ranking Italy GitHub
 
-**Story Top Rank Italy Commits 20° Position - Update: 24/06/2025**
+**Story Top Rank Italy Commits 15° Position - Update: 24/06/2025**
 
 **Check out my current ranking in GitHub Commits for Italy:**
 
-[![Commits Ranking #20 in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://committers.top/italy.html)
+[![Commits Ranking #15 in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://committers.top/italy.html)
 
 [Visit Commiters Italy](https://committers.top/italy.html)
 
 ---
 
-**Story Top Rank Italy Contributions 20° Position - Update: 24/06/2025**
+**Story Top Rank Italy Contributions 18° Position - Update: 24/06/2025**
 
 **Check out my current ranking in GitHub Contributions for Italy:**  
 
-[Ranked #20 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
+[Ranked #18 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
 
 ---
