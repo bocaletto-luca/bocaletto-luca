@@ -261,3 +261,62 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 [Ranked #18 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
 
 ---
+
+## 📚 Curated Open Source Collections
+
+Explore my hand-picked “starred” lists on GitHub—grouped by language and purpose:
+
+- **Python Projects**  
+  https://github.com/stars/bocaletto-luca/lists/python
+
+- **Web Games**  
+  https://github.com/stars/bocaletto-luca/lists/web-games
+
+- **JavaScript Collection**  
+  https://github.com/stars/bocaletto-luca/lists/javascript-collection
+
+- **Other Languages**  
+  https://github.com/stars/bocaletto-luca/lists/other-languages
+
+- **Web Applications**  
+  https://github.com/stars/bocaletto-luca/lists/webapp
+
+- **Free Public APIs**  
+  https://github.com/stars/bocaletto-luca/lists/api-free
+
+- **C Projects**  
+  https://github.com/stars/bocaletto-luca/lists/c
+
+- **Bash & Shell Scripts**  
+  https://github.com/stars/bocaletto-luca/lists/bash-scripts
+
+- **Arduino Projects**  
+  https://github.com/stars/bocaletto-luca/lists/arduino-project
+
+- **Website Templates**  
+  https://github.com/stars/bocaletto-luca/lists/web-template
+
+- **Personal Utilities & Files**  
+  https://github.com/stars/bocaletto-luca/lists/personal-files
+
+- **Geometry & Visualization**  
+  https://github.com/stars/bocaletto-luca/lists/geometry
+
+- **Mathematics & Algorithms**  
+  https://github.com/stars/bocaletto-luca/lists/mathematics
+
+- **Databases & Storage**  
+  https://github.com/stars/bocaletto-luca/lists/database
+
+… and many more! Browse my starred collections to discover tools, libraries and inspirations.
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 Website: https://bocaletto-luca.github.io  
+- 📂 Portfolio: https://bocalettoluca.altervista.org  
+- 🐙 GitHub: https://github.com/bocaletto-luca  
+
+---
+© 2025 Luca Bocaletto  
