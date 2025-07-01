@@ -262,51 +262,24 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
-## 📚 Curated Open Source Collections
+## 📂 Curated Project Collections
 
-Explore my hand-picked “starred” lists on GitHub—grouped by language and purpose:
-
-- **Python Projects**  
-  https://github.com/stars/bocaletto-luca/lists/python
-
-- **Web Games**  
-  https://github.com/stars/bocaletto-luca/lists/web-games
-
-- **JavaScript Collection**  
-  https://github.com/stars/bocaletto-luca/lists/javascript-collection
-
-- **Other Languages**  
-  https://github.com/stars/bocaletto-luca/lists/other-languages
-
-- **Web Applications**  
-  https://github.com/stars/bocaletto-luca/lists/webapp
-
-- **Free Public APIs**  
-  https://github.com/stars/bocaletto-luca/lists/api-free
-
-- **C Projects**  
-  https://github.com/stars/bocaletto-luca/lists/c
-
-- **Bash & Shell Scripts**  
-  https://github.com/stars/bocaletto-luca/lists/bash-scripts
-
-- **Arduino Projects**  
-  https://github.com/stars/bocaletto-luca/lists/arduino-project
-
-- **Website Templates**  
-  https://github.com/stars/bocaletto-luca/lists/web-template
-
-- **Personal Utilities & Files**  
-  https://github.com/stars/bocaletto-luca/lists/personal-files
-
-- **Geometry & Visualization**  
-  https://github.com/stars/bocaletto-luca/lists/geometry
-
-- **Mathematics & Algorithms**  
-  https://github.com/stars/bocaletto-luca/lists/mathematics
-
-- **Databases & Storage**  
-  https://github.com/stars/bocaletto-luca/lists/database
+| Category                    | Explore                                                                                   |
+|-----------------------------|-------------------------------------------------------------------------------------------|
+| 🐍 Python Projects          | [View List](https://github.com/stars/bocaletto-luca/lists/python)                         |
+| 🎮 Web Games                | [View List](https://github.com/stars/bocaletto-luca/lists/web-games)                      |
+| 📜 JavaScript Collection    | [View List](https://github.com/stars/bocaletto-luca/lists/javascript-collection)          |
+| 🌐 Other Languages          | [View List](https://github.com/stars/bocaletto-luca/lists/other-languages)                |
+| 🌍 Web Applications         | [View List](https://github.com/stars/bocaletto-luca/lists/webapp)                         |
+| 🔌 Free Public APIs         | [View List](https://github.com/stars/bocaletto-luca/lists/api-free)                       |
+| 💻 C Projects               | [View List](https://github.com/stars/bocaletto-luca/lists/c)                               |
+| 🐚 Bash & Shell Scripts     | [View List](https://github.com/stars/bocaletto-luca/lists/bash-scripts)                   |
+| 🤖 Arduino Projects         | [View List](https://github.com/stars/bocaletto-luca/lists/arduino-project)                |
+| 🖥️ Web Templates            | [View List](https://github.com/stars/bocaletto-luca/lists/web-template)                   |
+| 🗂️ Personal Utilities & Files | [View List](https://github.com/stars/bocaletto-luca/lists/personal-files)               |
+| 📐 Geometry & Visualization | [View List](https://github.com/stars/bocaletto-luca/lists/geometry)                       |
+| ➗ Mathematics & Algorithms | [View List](https://github.com/stars/bocaletto-luca/lists/mathematics)                    |
+| 🗄️ Databases & Storage       | [View List](https://github.com/stars/bocaletto-luca/lists/database)                      |
 
 … and many more! Browse my starred collections to discover tools, libraries and inspirations.
 
