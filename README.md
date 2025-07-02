@@ -254,11 +254,11 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
-**Story Top Rank Italy Contributions 18° Position - Update: 24/06/2025**
+**Story Top Rank Italy Contributions 15° Position - Update: 24/06/2025**
 
 **Check out my current ranking in GitHub Contributions for Italy:**  
 
-[Ranked #18 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
+[Ranked #15 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
 
 ---
 
