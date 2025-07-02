@@ -7,7 +7,7 @@
 I’m a Full-Stack Developer with roots in web development, backend systems & sysadmin.  
 I started on a Commodore 64, moved to Amiga, mastered every Windows version and dozens of GNU/Linux distros (Debian is my go-to).  
 I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Server Software, and tinker with electronics.
-- **Like:** Making, Use and mod Print 3D, Drawing 3D, Chess, Astronomy, HAM Radio, IA, Robotic, Writer, Free. 
+- **Like:** Making, Use and mod Print 3D, Drawing 3D, Chess, Astronomy, HAM Radio, IA, Robotic, Videogames, Writer, Free. 
 - **Music** Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
 
 Among the figures who have inspired me most are Linus Torvalds, Richard Stallman, Guido van Rossum, Dennis Ritchie, Ken Thompson, Robert Kahn, Nikola Tesla, Abbie Hoffman, John Draper, Kevin Mitnick, Steve Wozniak, and my friend Diego Cioschi.
