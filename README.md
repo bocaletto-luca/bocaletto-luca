@@ -285,6 +285,8 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
+[![GIF Preview di Luca Bocaletto](luca-bocaletto.gif)](https://www.youtube.com/watch?v=kX8hfK0PrHM)
+
 [![Watch on YouTube](https://img.youtube.com/vi/kX8hfK0PrHM/0.jpg)](https://youtu.be/kX8hfK0PrHM)
 
 ---
