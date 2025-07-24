@@ -264,7 +264,7 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
-## 📂 Curated Project Collections
+## 📂 Curated Project Collections List
 
 | Category                    | Explore                                                                                   |
 |-----------------------------|-------------------------------------------------------------------------------------------|
