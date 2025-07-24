@@ -8,7 +8,7 @@ I’m a Full-Stack Developer with roots in web development, backend systems & sy
 I started on a Commodore 64, moved to Amiga, mastered every Windows version and dozens of GNU/Linux distros (Debian is my go-to).  
 I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Server Software, and tinker with electronics.
 - **Like:** Making, Use and mod Print 3D, Drawing 3D, Chess, Astronomy, HAM Radio, IA, Robotic, Videogames, Writer, Free. 
-- **Music** Off-duty you’ll find me at the piano, firing up synths, or shredding on guitar.
+- **Music** Off-duty you’ll find me at the piano, keyboards, firing up synths, or shredding on guitar.
   
 ---
 
