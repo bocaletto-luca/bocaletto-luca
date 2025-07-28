@@ -17,7 +17,7 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 - **Backend:** Python, Node.js, PHP, SQL.  
 - **DevOps & SysAdmin:** Docker, AWS, CI/CD, Debian Linux, Apache, Web & DB servers, Security  
 - **Games & Interactive:** Canvas, WebGL, Unity, Godot, Unreal Engine, Vulkan.  
-- **Embedded & IoT:** Arduino, Open Source, Open Hardware  
+- **Embedded & IoT:** Arduino, Open Source, Open Hardware.  
 - **Open Source Contributor:** Actively pushing cutting-edge projects forward  
 - **Other Language: Python, C, C++, C#, BASH, BATCH, Pascal, Cobol, Assembly, Basic, and others. 
 ---
