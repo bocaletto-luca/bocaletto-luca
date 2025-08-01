@@ -19,7 +19,7 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 - **Games & Interactive:** Canvas, WebGL, Unity, Godot, Unreal Engine, Vulkan.  
 - **Embedded & IoT:** Arduino, Open Source, Open Hardware.  
 - **Open Source Contributor:** Actively pushing cutting-edge projects forward  
-- **Other Language: Python, C, C++, C#, BASH, BATCH, Pascal, Cobol, Assembly, Basic, and others. 
+- **Other Language: Python, C, C++, C#, Python, BASH, BATCH, Pascal, Cobol, Assembly, Basic, and others. 
 ---
 
 ## Notable Projects
