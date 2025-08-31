@@ -244,11 +244,11 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
     <img src="https://komarev.com/ghpvc/?username=bocaletto-luca&label=Profile%20views&color=ce9927&style=flat" alt="bocaletto-luca" />
 </p>
 
-### Developer TOP Ranking Italy GitHub
+### Developer TOP Ranking Italy in GitHub
 
 **Over 280 Open Source Projects posted on Github.**  
 
-**My Story Record in Top Rank Italy Commits 8° Position - Update: 12/07/2025**
+**My Story Record in Top Rank Italy Commits 8° Position - Update: 31/08/2025**
 
 **Check out my current ranking in GitHub Commits for Italy:**
 
@@ -258,11 +258,11 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
-**My Story Record in Top Rank Italy Contributions 13° Position - Update: 12/07/2025**
+**My Story Record in Top Rank Italy Contributions 12° Position - Update: 31/08/2025**
 
 **Check out my current ranking in GitHub Contributions for Italy:**  
 
-[Ranked #13 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
+[Ranked #12 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
 
 ---
 
