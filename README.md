@@ -63,19 +63,40 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
   </a>
   <a href="https://github.com/bocaletto-luca/PsychopompOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="PsychopompOS" />
   </a>
   <a href="https://github.com/bocaletto-luca/Typing-Tutor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Typing-Tutor" />
   </a>
   <a href="https://github.com/bocaletto-luca/AI-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="AI-Toolkit" />
   </a>
   <a href="https://github.com/bocaletto-luca/github-to-gitlab-auto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="github-to-gitlab-auto" />
   </a>
   <a href="https://github.com/bocaletto-luca/Desktop-Recorder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Desktop-Recorder" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Who-Wants-To-Be-A-Millionaire">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Who-Wants-To-Be-A-Millionaire" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/IT-Adventures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="IT-Adventures" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/gitlab-to-github-auto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="gitlab-to-github-auto" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Files-Compressor-Encryption">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Files-Compressor-Encryption" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Atomic-Time-Synch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Atomic-Time-Synch" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/BootableUSB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="BootableUSB" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Compressor-Decompressor-Archives">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Compressor-Decompressor-Archives" />
   </a>
 </p>
 
