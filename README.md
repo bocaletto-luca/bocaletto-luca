@@ -62,6 +62,21 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
   <a href="https://github.com/bocaletto-luca/Chess">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
   </a>
+  <a href="https://github.com/bocaletto-luca/PsychopompOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Typing-Tutor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/AI-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/github-to-gitlab-auto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+  </a>
+  <a href="https://github.com/bocaletto-luca/Desktop-Recorder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Chess&theme=radical&fresh=1676272000" alt="Chess" />
+  </a>
 </p>
 
 ---
