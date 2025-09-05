@@ -95,6 +95,9 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
   <a href="https://github.com/bocaletto-luca/Compressor-Decompressor-Archives">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Compressor-Decompressor-Archives&theme=radical&fresh=1676272000" alt="Compressor-Decompressor-Archives" />
   </a>
+    <a href="https://github.com/bocaletto-luca/Arkanoid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Arkanoid&theme=radical&fresh=1676272000" alt="Arkanoid" />
+  </a>
 </p>
 
 ---
