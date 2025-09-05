@@ -68,9 +68,6 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
   <a href="https://github.com/bocaletto-luca/Typing-Tutor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=Typing-Tutor&theme=radical&fresh=1676272000" alt="Typing-Tutor" />
   </a>
-  <a href="https://github.com/bocaletto-luca/AI-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=AI-Toolkit&theme=radical&fresh=1676272000" alt="AI-Toolkit" />
-  </a>
   <a href="https://github.com/bocaletto-luca/github-to-gitlab-auto">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bocaletto-luca&repo=github-to-gitlab-auto&theme=radical&fresh=1676272000" alt="github-to-gitlab-auto" />
   </a>
