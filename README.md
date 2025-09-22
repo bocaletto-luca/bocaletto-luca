@@ -282,9 +282,9 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ### Developer TOP Ranking Italy in GitHub
 
-**Over 280 Open Source Projects posted on Github.**  
+**Over 290 Open Source Projects posted on Github.**  
 
-**My Story Record in Top Rank Italy Commits 8° Position - Update: 31/08/2025**
+**My Story Record in Top Rank Italy Commits 8° Position - Update: 22/09/2025**
 
 **Check out my current ranking in GitHub Commits for Italy:**
 
@@ -294,11 +294,11 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 ---
 
-**My Story Record in Top Rank Italy Contributions 12° Position - Update: 31/08/2025**
+**My Story Record in Top Rank Italy Contributions 11° Position - Update: 31/08/2025**
 
 **Check out my current ranking in GitHub Contributions for Italy:**  
 
-[Ranked #12 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
+[Ranked #11 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
 
 ---
 
