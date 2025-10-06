@@ -284,21 +284,21 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 
 **Over 290 Open Source Projects posted on Github.**  
 
-**My Story Record in Top Rank Italy Commits 8° Position - Update: 22/09/2025**
+**My Story Record in Top Rank Italy Commits 1° Position - Update: 06/10/2025**
 
 **Check out my current ranking in GitHub Commits for Italy:**
 
-[![Commits Ranking #8 in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://committers.top/italy.html)
+[![Commits Ranking #1 in Italy](https://user-badge.committers.top/italy/bocaletto-luca.svg)](https://committers.top/italy.html)
 
 [Visit Commiters Italy](https://committers.top/italy.html)
 
 ---
 
-**My Story Record in Top Rank Italy Contributions 11° Position - Update: 31/08/2025**
+**My Story Record in Top Rank Italy Contributions 1° Position - Update: 06/10/2025**
 
 **Check out my current ranking in GitHub Contributions for Italy:**  
 
-[Ranked #11 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
+[Ranked #1 among Italian GitHub Contributors](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/public_contributions/italy.md)
 
 ---
 
