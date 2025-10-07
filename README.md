@@ -30,15 +30,6 @@ I build browser-based remakes of Classics Games, WebApps, WebSite, Client and Se
 
 ---
 
-## Publications
-- *La storia di Linux* – A deep dive into Linux’s evolution and impact (available on Amazon)
-
----
-
-Among the figures who have inspired me most are Linus Torvalds, Richard Stallman, Guido van Rossum, Dennis Ritchie, Ken Thompson, Robert Kahn, Nikola Tesla, Abbie Hoffman, John Draper, Kevin Mitnick, Steve Wozniak, and my friend Diego Cioschi.
-
----
-
 ## Connect With Me  
 <p align="center">
   <a href="https://bocalettoluca.altervista.org">🌐 Website</a> •
@@ -330,4 +321,14 @@ Among the figures who have inspired me most are Linus Torvalds, Richard Stallman
 [![Watch on YouTube](https://img.youtube.com/vi/kX8hfK0PrHM/0.jpg)](https://youtu.be/kX8hfK0PrHM)
 
 ---
+
+## Publications
+- *La storia di Linux* – A deep dive into Linux’s evolution and impact (available on Amazon)
+
+---
+
+Among the figures who have inspired me most are Linus Torvalds, Richard Stallman, Guido van Rossum, Dennis Ritchie, Ken Thompson, Robert Kahn, Nikola Tesla, Abbie Hoffman, John Draper, Kevin Mitnick, Steve Wozniak, and my friend Diego Cioschi.
+
+---
+
 © 2025 Luca Bocaletto  
